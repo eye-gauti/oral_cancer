@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/raw/
+
+# Models
+*.h5
+*.keras
+*.tflite
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
